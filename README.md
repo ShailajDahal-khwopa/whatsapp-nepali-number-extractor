@@ -25,7 +25,7 @@ cd whatsapp-nepali-number-extractor
 ### 2. Build the binary
 **Debug build:**
 ```
-cargo Build
+cargo build
 ```
 Binary will be located at:
 ```
@@ -51,4 +51,4 @@ target/release/
 - Dependencies [regex](https://crates.io/crates/regex)
 
 ## License
-MIT License  2025
+MIT License &Copyright (c) 2025
