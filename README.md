@@ -1,5 +1,5 @@
 # WhatsApp Nepali Phone Number Extractor
-A Rust CLI tool to extract Nepali phone numbers from WhatsApp text exports. The tool handles deduplication and WhatsApp-specific Unicode characters, producing a clean numbers.txt output.
+A Rust CLI tool to extract Nepali phone numbers from WhatsApp chat exports. The tool handles deduplication and WhatsApp-specific Unicode characters, producing a clean numbers.txt output.
 
 ## Features
 - Extracts Nepali numbers like +977 9XX-XXXXXXX
@@ -51,4 +51,4 @@ target/release/
 - Dependencies [regex](https://crates.io/crates/regex)
 
 ## License
-MIT License &Copyright (c) 2025
+MIT License &copy; 2025
