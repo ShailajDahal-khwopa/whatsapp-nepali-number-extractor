@@ -18,8 +18,8 @@ A Rust CLI tool to extract Nepali phone numbers from WhatsApp text exports. The 
 
 ### 1. Clone the repository
 ```
-git clone <your-repo-url>
-cd whatsapp_numbers
+git clone https://github.com/ShailajDahal-khwopa/whatsapp-nepali-number-extractor.git
+cd whatsapp-nepali-number-extractor
 ```
 
 ### 2. Build the binary
