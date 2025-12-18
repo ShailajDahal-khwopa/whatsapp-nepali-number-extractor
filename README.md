@@ -51,4 +51,4 @@ target/release/
 - Dependencies [regex](https://crates.io/crates/regex)
 
 ## License
-MIT License &copy; 2025
+MIT License &copy; 2025 Shailaj Dahal 
